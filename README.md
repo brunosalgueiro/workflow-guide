@@ -15,7 +15,7 @@ Apply rules and be based on a principle and methodology of process which could m
 
 **Second reason:**
 
-Not only have a code style guide, but relevant informations about my Workflow. Thus I always keep the same logic process and can initiate the development of my projects without any questions when making a scaffolding, building process, automation rotines, unit testing and others tasks.
+Not only have a code style guide, but relevant informations about my Workflow. Thus I always keep the same logic process and can initiate the development of my projects without any questions when making a scaffolding, building process, automation routines, unit testing and others tasks.
 
 **This guide consist with four parts:** :ghost:
 
